@@ -3,11 +3,18 @@
   "version": "1.0.0",
   "description": "Easy way to use trello",
   "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:noamknispel/easy-trello.git"
+  },
   "dependencies": {
     "trello": "^0.5.1"
   },
   "scripts": {
     "start": "./trello.js"
+  },
+  "bin": {
+    "easy-trello": "./trello.js"
   },
   "author": "Noam Knispel",
   "license": "ISC"
