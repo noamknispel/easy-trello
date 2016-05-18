@@ -1,0 +1,15 @@
+{
+  "name": "easy-trello",
+  "version": "1.0.0",
+  "description": "Easy way to use trello",
+  "main": "server.js",
+  "dependencies": {
+    "trello": "^0.5.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Noam Knispel",
+  "license": "ISC"
+}
