@@ -4,7 +4,7 @@ Easy way to add cards to your Trello list via CLI.
 ### Installing
 You can easyly install using npm:
 * `npm install -g easy-trello`
-* Create configuration file in `~/.trellorc` (or another [RC's convention](https://github.com/dominictarr/rc ("RC documentation"))):
+* Create configuration file in `~/.trellorc` (or another [RC's convention] (https://github.com/dominictarr/rc)):
 ```
 {
   "appKey": "",
