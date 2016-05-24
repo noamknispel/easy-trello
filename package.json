@@ -1,13 +1,14 @@
 {
   "name": "easy-trello",
   "version": "1.0.0",
-  "description": "Easy way to use trello",
+  "description": "Easy way to use trello from the command-line",
   "main": "server.js",
   "repository": {
     "type": "git",
     "url": "git@github.com:noamknispel/easy-trello.git"
   },
   "dependencies": {
+    "rc": "^1.1.6",
     "trello": "^0.5.1"
   },
   "scripts": {
